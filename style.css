@@ -3,7 +3,11 @@
     padding: 0;
     margin: 0;
 }
+body {
+    margin: 20px auto 0;
+    max-width: 1200px;
+}
 
 h1:hover {
-    transform: scale (0.2);
+    transform: scale(1.2);
 }
